@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+<e> <lg> <l pos="A">авань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">авань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аварькс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">аварькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аера</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">аир</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аеркс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">аеркс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">акша</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ашо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">акшаза</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ашназа</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">алана</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">алка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">алашань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">алашань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">алня</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">алка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">алняня</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">алкине</t> <t Contlex="" pos="A">алкинька</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">алце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">алце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">анок</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">анок</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аржу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">аржов</t> <t Contlex="" pos="A">иржаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ару</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ванькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">атянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">атянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аф ару</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">аванькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аф ванькс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">аванькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аф кирдеви</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кирдевтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аф ломанень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">а ломанень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аф мазы</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">амазый</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аф пара</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">апаро</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аф пара вайме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">апаро ойме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">афкуксонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">алкуксонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">аш мезень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">аразень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ашу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">бедной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">бабань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">бабань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">баяронь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">бояронь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">беднай</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">бедной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">благой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">благой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">букань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">букань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">бутрав</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">бутрав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вадря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вадря</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вадяв</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вадяша</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вадяжа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вадяша</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вазу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вазов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ваи</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">оев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вайгяльфтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вайгельтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вайгялю</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вайгелев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">валазя</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">валаня</t> <t Contlex="" pos="A">нолажа</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">валда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">валдо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вандынь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">вандынь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ванькс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ванькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вармав</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вармав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">варяв</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">варяв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">васенце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">васенце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">васень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">васень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ведь алдонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ведьалдонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ведьгемонце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ведьгеменце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ведю</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ведев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">веженцясь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">веженсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">велень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">велень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">вень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">верок</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">верек</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ветеце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ветеце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">веца</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вецана</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вецана</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вецана</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">виде</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">виде</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">види</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вить</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">визьксфтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">визькстэме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вии</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">виев</t> <t Contlex="" pos="A">нардев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вийфтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вийтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вирень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">вирень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">върьгазонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">верьгизэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">вярце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">верце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">дока</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">дока</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">жив</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">жив</t> <t Contlex="" pos="A">живой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">живой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">жив</t> <t Contlex="" pos="A">живой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">идем</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">идем</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">идень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">эйдень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">идеф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">идезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">или</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">илев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">иля</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">лия</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ингольдень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">икелень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ингольце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">икельце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">инь оцю</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ине</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">исяконь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="X:genAttr">исень</t> <t Contlex="" pos="X:genAttr">исяконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ичкоздень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">васолдонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кагодонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">конёвонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кажана</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кажаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">казяма</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">иржаня</t> <t Contlex="" pos="A">кажаня</t> <t Contlex="" pos="A">казямо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кайги</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">гайтев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">калада</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">каладозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">калгода</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">калгодо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">калонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">калонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кальдяв</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">апаро</t> <t Contlex="" pos="A">берянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">каньфонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">мушконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">карьготьф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">каргоць</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">катонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">каткань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кашан</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">аксун</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">каштан</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">каштан</t> <t Contlex="" pos="A">обуцяв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кевейхксыеце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кевейксэеце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кеветиеце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кеветееце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кевонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">кевень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кеворь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кеверь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кеву</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кевев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кедень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">кедень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кеди</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кедий</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">келазень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ривезень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кели</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">келей</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">келувонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">килеень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">келунь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">килеень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кельговикс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вечкевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кельме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кельме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кемгафксувоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кемгавксовоце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кемгафтувоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кемгавтовоце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кемголмувоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кемголмовоце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кемготувоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кемготовоце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кеме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">кеме</t> <t Contlex="" pos="A">нардев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кемзисемгоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кемзисемгеце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кержи</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">керш</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">керонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">керень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кефкиеце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кевейкееце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кивиень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">кивень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кизонь (12 ковонь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">иень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кизонь (3 ковонь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">кизэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кирдемшка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кирдевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кирьфтаф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">киртязь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кичкор</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">кичкере</t> <t Contlex="" pos="A">чирь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кодама</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кодамо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кодама-повсь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">эрьва кодамо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">козя</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сюпав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">колмогемонце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">колоньгеменце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">колмоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">колмоце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">комозце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">комсеце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">копордаф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">копордазь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">коськана</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">коськана</t> <t Contlex="" pos="A">коськаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">коське</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">коське</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">коськф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">коськезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">котоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">котоце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">котфонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">коцтонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кувака</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кувака</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кудряв</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кудряв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кудфтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кудовтомо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кузонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">кузонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кулоф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кулозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кунардонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="X:genAttr">кезэрень</t> <t Contlex="" pos="X:genAttr">умоконь</t> <t Contlex="" pos="X:genAttr">умонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кшнинь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">кшнинь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кърхка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">домка</t> <t Contlex="" pos="A">сэрей</t> <t Contlex="" pos="A">томбака</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кядьфтема</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кедтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кяжи</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">кежев</t> <t Contlex="" pos="A">кежей</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">кяльфтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кельтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лавжа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">липужа</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лапш</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">лапужа</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лебоню</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">рудазов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лемфтема</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">лемтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ленгянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ленгень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">летьке</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">летьке</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лия</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">лия</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ловонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ловонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лову</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ловов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ломанень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ломанень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лопав</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">лопав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лофцонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ловсонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лядыкс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кадовикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ляень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">леень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">лямбе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">лембе</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ляпе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чевте</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мазы</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">мазы</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">макшу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">макшов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">малавикс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">малавикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">манань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">манынь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">марень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">умарень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">марстонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">вейсэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мастор алгань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">мастор алгань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">маця</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">мазя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">машфтф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">маштозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">медень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">медень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">медю</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">медев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мезень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">мень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мекольце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">меельце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">менелень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">менелень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мешень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">мекшень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">модав</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">модав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">модань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">модань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">модань-ведень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">модань-ведень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мокшень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">мокшонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">моргу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">моргов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мувор</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чумо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мувору</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чумо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мушконь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">мушконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мянцеви</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ёланя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">мяштень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">мештень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">навла</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">наволо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">надёжнай</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кемевикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нарде</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">нардев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нармонень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">нармунень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">начка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">начко</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">наян</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">наян</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нилеце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">нилеце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нильгемонце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ниленьгеменце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">новольф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">новолезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нола</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">нузяла</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нолажа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">нолажа</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ношка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ношка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нумолонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">нумолонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нусманя</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">нусманя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нюреню</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тортав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нюрьхкя</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">нурька</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">нюрьхкяня</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">нурька</t> <t Contlex="" pos="A">нурькине</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">няеви</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">неявикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">няевикс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">неявикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">обуцяв</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">обуцяв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">олаф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">оланя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">омба</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">омбо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">омбоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">омбоце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">опана</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">опаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ордаж</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ордакш</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">оржа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пшти</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">офтонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">овтонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">оцю</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">ине</t> <t Contlex="" pos="A">покш</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ошень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ошонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">павазу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">уцяскав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">паксянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">паксянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пангонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">пангонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">панду</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пандов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">панжада курга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">автень курго</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">панчфонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">цецянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">панчфу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">цецькав</t> <t Contlex="" pos="A">цецяв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пара</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">вадря</t> <t Contlex="" pos="A">паро</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">парьхциень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">парсеень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пеки</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пекев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пефтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">певтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пею</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пеев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пидеф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пиезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пиже</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пиже</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пингонь-пингонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">пингень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пинень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">кискань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">питни</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">питнев</t> <t Contlex="" pos="A">питней</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пиф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пиезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пичень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">пичень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пичефксу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">горяв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">покаряв</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кеверь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">полдаш</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">полгаря</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">полдорож</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">полгаря</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">понав</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">понав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">понань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">понань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">потмонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">потмонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">почана</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">почаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">поювонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">поень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пряви</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">превев</t> <t Contlex="" pos="A">превей</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">прянь няи</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">каштан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">прянь шнай</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">каштан</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">прянька</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">жомка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пряфтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">превтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пси</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пси</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пужф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">рипаня</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пуронь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">поронь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пъзьгону</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">безьгунов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пялес верок</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">письверек</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пяляз</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">пеляз</t> <t Contlex="" pos="A">пеляза</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пяндра</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">рудазов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пяшень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">пекшень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">пяшксе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пешксе</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">равжа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">раужо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">рашку</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">рашков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ризфу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">нусманя</t> <t Contlex="" pos="A">ризксэв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">розень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">розень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">рузонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">рузонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">салава</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">салава</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">салу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">салов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">седиень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">седеень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">седиень колай</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">нусманя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">седифтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">седейтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">седишкава</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">седейшкава</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сельмонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">сельмень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сельмофтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сельмевтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сери</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">домка</t> <t Contlex="" pos="A">сэрей</t> <t Contlex="" pos="A">томбака</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сетьме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сэтьме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сиде</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сееде</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">синнеф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">синдень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">синтьф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">синдень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сире</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сыре</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сиянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">сиянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">содавикс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">содавикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">содаф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">содавикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">соду</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">содов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сокор</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">сельмевтеме</t> <t Contlex="" pos="A">сокор</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">соку</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">соков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">стака</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">стака</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">стаконь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">стяконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">стаф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">стазь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сумбара</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сумборя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сумбора</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сумборя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сырнянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">сырнень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сюне</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сумборя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сюнера</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сумборя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сюнерь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сумборя</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сявань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">сеянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сядоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сядоце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сянгяря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">пиже</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сяпи</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">сэпев</t> <t Contlex="" pos="A">сэпей</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сёвонень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">сёвонень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сёксень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">сёксень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">сёрмав</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">сёрмав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">таватф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тавадозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">таза</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">нардев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тазу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тазов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">танцти</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тантей</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">таньфтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тансттеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тараду</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тарадов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ташта</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ташто</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">теву</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тевев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тиши</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тикшев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тишу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тикшев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">товолдонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">товолдонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">толдоння</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">товолдонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">толдонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">товолдонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">толонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">толонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">толу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">толов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">томба</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">томбака</t> <t Contlex="" pos="A">томбака</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">торхтав</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тортав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тостонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">тостонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тундань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">тундонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">туста</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">тусто</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тюжя</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ожо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тядянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">тиринь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тядянь-алянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">тиринь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тялонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">телень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тяниень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">неень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тястонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">тестэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тяфтама</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">истямо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">тёждя</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">шожда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Bahuv">тёждя пря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="Bahuvr">шожда прев</t> <t Contlex="" pos="Bahuvr">шожда пря</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">улхконь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">улконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ульцянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ульцянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">урмав</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ормав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">урозонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">урозонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">усав</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">усав</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">уцез</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">дёшова</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ушень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ушонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ушлай</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">дошлой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">финнонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">финнэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">фкат</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вейкеть</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">фталце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">удалце</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">цюкорня</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">жомка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">цябярь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вадря</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шабань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">эйдень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шабрань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">шабрань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шава</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чаво</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шава пря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чаво пря</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шавф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чавозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шапама</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чапамо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шаржа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">шерже</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шаржу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">шержев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шары пря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="Bahuvr">шожда прев</t> <t Contlex="" pos="Bahuvr">шожда пря</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шачема</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">тиринь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шини</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чинев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шинь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">чинь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ширем</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чирь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шкаень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">пазонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шобда</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чопода</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шобдаваньвандынь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">валскень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шоваф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">човань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шову</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">човов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шопода</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чопода</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">штань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">штань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шуваня</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">чова</t> <t Contlex="" pos="A">човине</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шужярень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">олгонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шумбра</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">шумбра</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шура</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чуро</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шуфтонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">чувтонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шямоню</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чеменев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">шяфте</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">чевте</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ърдазу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">аванькс</t> <t Contlex="" pos="A">рудазов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">эень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эи</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">эев</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эрек</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">эрек</t> <t Contlex="" pos="A">эряза</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эрзянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">эрзянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эрь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">эрьва</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эрь кодама</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">эрьва кодамо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эрь шинь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">эрьва чинь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эрявикс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">лезэв</t> <t Contlex="" pos="A">эрявикс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эряза</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">эрек</t> <t Contlex="" pos="A">эряза</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">эсь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">эсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ялгань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="X:genAttr">оянь</t> <t Contlex="" pos="X:genAttr">ялгань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ярашты</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">лезэв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ярмаку</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ярмаков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">яровой</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">кедий</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ёжефтема</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ёжовтомо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ёжу</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">ёжов</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ёмла</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">вишка</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ёньфтома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="A">превтеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ёню</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t Contlex="" pos="A">превев</t> <t Contlex="" pos="A">превей</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ёру</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">аразень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">ёфксонь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="X:genAttr">ёвксонь</t> </tg> </mg> </e>
+</r>
