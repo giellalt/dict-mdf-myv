@@ -76,6 +76,7 @@
    </lg>
    <mg>
      <tg xml:lang="myv">
+       <t pos="N">аваломань</t>
        <t pos="N">ава</t>
      </tg>
    </mg>
@@ -531,6 +532,7 @@
    <mg>
      <tg xml:lang="myv">
        <t pos="N">алаша</t>
+       <t pos="N">лишме</t>
      </tg>
    </mg>
 </e>
@@ -2127,6 +2129,7 @@
    <mg>
      <tg xml:lang="myv">
        <t pos="N">вашо</t>
+       <t pos="N">парнэ</t>
      </tg>
    </mg>
 </e>
@@ -2299,6 +2302,7 @@
    <mg>
      <tg xml:lang="myv">
        <t pos="N">берёк</t>
+       <t pos="N">ведьчире</t>
      </tg>
    </mg>
 </e>
@@ -2633,8 +2637,8 @@
    </lg>
    <mg>
      <tg xml:lang="myv">
-       <t pos="N">альме</t>
        <t pos="N">вий</t>
+       <t pos="N">альме</t>
      </tg>
    </mg>
 </e>
@@ -2718,6 +2722,7 @@
    <mg>
      <tg xml:lang="myv">
        <t pos="N">война</t>
+       <t pos="N">ойна</t>
      </tg>
    </mg>
 </e>
