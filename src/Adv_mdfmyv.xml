@@ -72,6 +72,18 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">алула</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Adv">анокста</l>
      <stg> <st/>
      </stg>
@@ -303,13 +315,13 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">валом</l>
+     <l pos="Adv">валом-валом</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="myv">
-       <t pos="Adv">састо</t>
+       <t pos="Adv">састынестэ</t>
      </tg>
    </mg>
 </e>

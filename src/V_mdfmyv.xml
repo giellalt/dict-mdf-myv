@@ -6803,6 +6803,19 @@
 </e>
 <e>
    <lg>
+     <l pos="V">нолямс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="V">нолдтнемс</t>
+       <t pos="V">нолдамс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="V">нолсемс</l>
      <stg> <st/>
      </stg>

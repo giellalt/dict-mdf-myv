@@ -4451,6 +4451,18 @@
 </e>
 <e>
    <lg>
+     <l pos="N">касыкс</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="N">тикше</t>
+       <t pos="N">цеця</t>
+       <t pos="N">тикшеть-цецят</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">ката</l>
    </lg>
    <mg>
