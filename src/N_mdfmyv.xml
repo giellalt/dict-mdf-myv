@@ -4573,6 +4573,16 @@
 </e>
 <e>
    <lg>
+     <l pos="N">боза</l>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="N">брага</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">кев</l>
    </lg>
    <mg>
@@ -4877,7 +4887,6 @@
    <mg>
      <tg xml:lang="myv">
        <t pos="N">ки</t>
-       <t pos="N">ки</t>
      </tg>
    </mg>
 </e>
@@ -4896,19 +4905,16 @@
 </e>
 <e>
    <lg>
-     <l pos="N">киза (12 кофт)</l>
+     <l pos="N">киза</l>
    </lg>
    <mg>
+<defNative>12 кофт</defNative>
      <tg xml:lang="myv">
        <t pos="N">ие</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">киза (3 кофт)</l>
-   </lg>
    <mg>
+<defNative>3 кофт</defNative>
      <tg xml:lang="myv">
        <t pos="N">кизэ</t>
      </tg>
@@ -5075,16 +5081,6 @@
    <mg>
      <tg xml:lang="myv">
        <t pos="N">кикске</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">киякс</l>
-   </lg>
-   <mg>
-     <tg xml:lang="myv">
-       <t pos="N">киякс</t>
      </tg>
    </mg>
 </e>
